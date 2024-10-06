@@ -1,5 +1,6 @@
 # khan-s-repo
 it is my first repository.
 <br>
-author - musharraf 
+author - musharraf khan
+ 
 
